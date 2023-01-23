@@ -13,11 +13,11 @@ sudah terinstall nodejs
 ## instalasi
 
 ```bash
-git clone https://github.com/febriansyahdotid/peminjaman-buku.git
+git clone https://github.com/febriansyahdotid/blog.git
 ```
 
 ```bash
-cd peminjaman-buku
+cd blog
 ```
 
 ```bash
